@@ -27,7 +27,7 @@ Install and use by directly including the [browser files](dist):
 <head>
   <title>My A-Frame Scene</title>
   <script src="https://aframe.io/releases/0.6.0/aframe.min.js"></script>
-  <script src="https://unpkg.com/aframe-gltf-exporter-component/dist/aframe-gltf-exporter-component.min.js"></script>
+  <script src="https://rawgit.com/sandbox2me/aframe-gltf-exporter-component/master/dist/aframe-gltf-exporter-component.min.js"></script>
 </head>
 
 <body>
